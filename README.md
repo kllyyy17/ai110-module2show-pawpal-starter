@@ -52,6 +52,15 @@ Paste a sample of your app's CLI or Streamlit output here so a reader can see wh
 #   08:00 — Morning walk (30 min) [priority: high]
 #   09:00 — Feeding (10 min) [priority: high]
 #   ...
+
+========================================
+Today's Schedule
+========================================
+Plan for 2026-06-23: scheduled 3 of 4 tasks using 45/60 minutes.
+Scheduled give meds Rex: priority 9, 5 min (5/60 min used).
+Scheduled feed Mia: priority 8, 10 min (15/60 min used).
+Scheduled morning walk Rex: priority 4, 30 min (45/60 min used).
+Skipped grooming session Mia: needs 40 min but only 15 min left in the budget.
 ```
 
 ## 🧪 Testing PawPal+
